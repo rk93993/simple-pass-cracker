@@ -25,7 +25,7 @@ def brute_force(target_password):
 
 # Main function to run the script
 if __name__ == "__main__":
-    target = "abc123"  # Change this to the password you want to crack
+    target = "Holly"  # Change this to the password you want to crack
     print("Starting brute-force...")
 
     # Record the start time to calculate how long the cracking takes
